@@ -1,0 +1,22 @@
+{
+    "name": "vala/lw3",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vala\\Lw3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ydekor",
+            "email": "114324139+ydekor@users.noreply.github.com"
+        }
+    ],
+    "repositories": {
+        "type": "vcs",
+        "url": ""
+    },
+    "require": {
+
+    }
+}
