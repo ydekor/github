@@ -14,9 +14,9 @@
     ],
     "repositories": {
         "type": "vcs",
-        "url": ""
+        "url": "https://github.com/Allokotos/MRMT_GH/tree/main/MDK_S/PHP/lw2"
     },
     "require": {
-
+        "allokotos/lw2": "dev-master"
     }
 }
