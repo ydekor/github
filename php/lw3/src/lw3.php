@@ -1,2 +1,0 @@
-namespace allakotos\lw2;
-
