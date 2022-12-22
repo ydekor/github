@@ -1,6 +1,8 @@
 <?php
 
-namespace lw2;
+namespace lw2\src;
+
+use lw2\src\Pizza;
 
 abstract class PizzaStore
 {

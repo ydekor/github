@@ -1,6 +1,6 @@
 <?php
 
-namespace lw2;
+namespace lw2\src;
 
 abstract class Pizza
 {
