@@ -2,7 +2,7 @@
 require_once 'allokotos\lw2\src\ChocolateFactory.php';
 use src\ChocolateFactory;
 
-class chocolatNats extends ChocolateFactory 
+class ChocolatNats extends ChocolateFactory 
 {
     public string $name = "chokolatNats";
     public array $toppings = ['boby', 'nats', 'chocolate'];
