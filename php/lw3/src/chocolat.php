@@ -1,8 +1,10 @@
 <?php
-require_once 'allokotos\lw2\src\ChocolateFactory.php';
-use src\ChocolateFactory;
 
-class Chocolat extends ChocolateFactory 
+require_once __DIR__.'/../vendor/autoload.php';
+
+use Allokotos\lw3\Snack;
+
+class Chocolat extends Snack
 {
     public string $name = "chokolat";
     public array $toppings = ['honey', 'nats'];

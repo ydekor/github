@@ -12,11 +12,12 @@
             "email": "114324139+ydekor@users.noreply.github.com"
         }
     ],
-    "repositories": {
-        "type": "vcs",
-        "url": "https://github.com/Allokotos/MRMT_GH/tree/main/MDK_S/PHP/lw2"
-    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Allokotos/LW2"
+        }],
     "require": {
-        "allokotos/lw2": "dev-master"
+        "allokotos/lw2": "dev-main"
     }
 }
